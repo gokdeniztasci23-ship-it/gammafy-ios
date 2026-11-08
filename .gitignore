@@ -1,0 +1,5 @@
+GammaTV.xcodeproj/
+build/
+Payload/
+*.ipa
+Kaynak/Info.plist
